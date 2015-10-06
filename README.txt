@@ -1,4 +1,4 @@
-Parts of a parser/interpreter program written in java that allowed the user to input if-else statements,loop structure, assign variables(character) a value and do
+Parts of a parser/interpreter program written in java that allowed the user to implement if-else statements,loop structure, assign variables(character) a value and do
 mathematical expressions with the variable. Also could parse the language from a file, thus creating a way to allow the user to feed 
 programs to the parser.
 ------------------------------------
