@@ -1,0 +1,11 @@
+input dividend
+input divisor
+mult = dividend / divisor
+ans = mult * divisor
+
+if ans == dividend
+	print 0 + 0
+x = 0
+repeat ans to dividend by 1
+	x = x +1
+print x - 1
